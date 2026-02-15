@@ -1,0 +1,44 @@
+
+
+═══════════════════════════════════════════════════════════════════════════
+📝 HOW TO UPDATE PRICES/CONTENT LATER (2 OPTIONS):
+═══════════════════════════════════════════════════════════════════════════
+
+OPTION 1: Come Back to Emergent (Easiest)
+──────────────────────────────────────────
+1. Return to this Emergent session
+2. Tell me what to change (e.g., "Change video price to 2000 SEK")
+3. I'll update and rebuild automatically
+4. Download new dist folder
+5. Upload to Hostinger (overwrite old files)
+
+
+OPTION 2: Edit Yourself (Advanced)
+───────────────────────────────────
+If you need to edit prices directly in the deployed site:
+
+⚠️ WARNING: Changes will be lost if you re-upload from dist folder
+
+For Quick Edits:
+1. Go to Hostinger File Manager
+2. Open: public_html/static/js/main.*.js
+3. Search for the price (e.g., "2500 SEK")
+4. Change to new price
+5. Save file
+6. Clear browser cache (Ctrl+F5) to see changes
+
+Note: This is temporary. Best practice is Option 1 (rebuild properly)
+
+
+BEST PRACTICE:
+─────────────────
+→ Always use Emergent to make changes
+→ Get new dist folder
+→ Upload to hosting
+→ This ensures clean, optimized code
+
+
+═══════════════════════════════════════════════════════════════════════════
+                        LATEST UPDATE: 2025-12-15
+                   Video Consultation: 1500 SEK ✓
+═══════════════════════════════════════════════════════════════════════════
